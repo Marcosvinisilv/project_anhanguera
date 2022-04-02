@@ -61,7 +61,7 @@
                                    
                                     @if($item->tipo == 99)
                                        
-                                        @if ($item->email === "marcosviniciussilva330@gmail.com")
+                                        @if ($item->email === "marcosvinicius4510@gmail.com")
                                         
                                         <button href="" class="btn btn-sm" style="background:purple !important; color:white;"><strong style="font-size:14px">DONO</strong></button>
                                         @else
